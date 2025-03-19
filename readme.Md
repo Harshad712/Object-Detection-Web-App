@@ -71,7 +71,7 @@ The app is deployed on Hugging Face Spaces for easy accessibility.
 ---
 
 ##  Requirements
-Ensure the following dependencies are listed in your `requirements.txt` file:
+Ensure the following dependencies are listed in your `requirements.txt` file :
 ```
 gradio
 torch
