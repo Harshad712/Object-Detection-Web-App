@@ -45,7 +45,7 @@ python app.py
 ```
 
 5. **Open the Web App**
-Once the app starts, Gradio will generate a URL like:
+Once the app starts , Gradio will generate a URL like:
 ```
 Running on local URL: http://localhost:7860
 ```
